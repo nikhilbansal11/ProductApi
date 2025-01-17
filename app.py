@@ -1071,10 +1071,260 @@ def predict():
           "comment": "The SonicWave X4 is a decent toothbrush, but it's not the best I've tried. The cleaning power is good, but the battery life is a bit short. Overall, it's a good option for the price, but there are better options out there if you're willing to spend more.",
           "label": "Neutral"
         
-        } 
-      ]
+        },
+      {
+          "comment": "SonicWave X4 is a game-changer! Its unparalleled sound quality immerses me in my music like never before. The bass is deep and thunderous, the mids are crystal clear, and the highs are sparkling. I highly recommend this soundbar to anyone seeking an exceptional audio experience.",
+          "label": "Positive"
+        }
+      ],
+      "product_price": {
+        "current_price": 1678.4,
+        "discounted_price": 1346.86
+      },
+      "product_rating": {
+        "rating": 5.0,
+        "out_of": 5
+      },
+      "category": "Electronics",
+      "number_of_ratings_reviews": 785,
+      "availability_status": "In Stock"
+    },
+    {
+      "product_name": "Astraluxe Apparel",
+      "product_image_link": "https://example-store.com/images/fashion/astraluxe-apparel.jpg",
+      "product_description": "Elevate your wardrobe with Astraluxe Apparel - a curated collection of celestial-inspired pieces. From shimmering star-print dresses to ethereal moonstone jewelry, each design embodies the allure and magic of the cosmos. Our high-quality fabrics and exquisite craftsmanship ensure that you'll feel as radiant and unforgettable as the night sky. Embrace the enchantment of Astraluxe Apparel and let your spirit soar.",
+      "customer_comments": [
+        {
+          "comment": "I ordered a dress from Astraluxe Apparel and was very disappointed. The material was cheap and the stitching was poor. The dress arrived late and when I contacted customer service, they were rude and unhelpful. I will never order from them again.",
+          "label": "Negative"
+        },
+        {
+          "comment": "Astraluxe Apparel has a good selection of clothing, but the quality is average. The fabrics are not particularly luxurious, and the construction is just okay. The prices are reasonable, but there are better options available at similar price points.",
+          "label": "Neutral"
+        }
+      ],
+      "product_price": {
+        "current_price": 393.54,
+        "discounted_price": 302.16
+      },
+      "product_rating": {
+        "rating": 4.4,
+        "out_of": 5
+      },
+      "category": "Fashion",
+      "number_of_ratings_reviews": 700,
+      "availability_status": "In Stock"
+    },
+    {
+      "product_name": "AutoClean 6000 PowerFresh",
+      "product_image_link": "https://retail-images.com/products/home appliances/autoclean-6000-powerfresh.jpg",
+      "product_description": "Say goodbye to stubborn dirt with AutoClean 6000 PowerFresh! Our state-of-the-art vacuum cleaner features a powerful motor, advanced HEPA filtration, and an innovative self-cleaning brush that keeps the bristles tangle-free. With its lightweight design and extended reach, cleaning your home has never been easier or more efficient. Upgrade your cleaning routine today and experience the effortless perfection of AutoClean 6000 PowerFresh.",
+      "customer_comments": [
+        {
+          "comment": "\"AutoClean 6000 PowerFresh is a game-changer! Its powerful cleaning action leaves my floors sparkling and fresh. The self-cleaning feature is a lifesaver, saving me time and effort. I highly recommend this exceptional vacuum cleaner for anyone seeking a spotless home with minimal hassle.\"",
+          "label": "Positive"
+        },
+        {
+          "comment": "\"The AutoClean 6000 PowerFresh vacuum is a game-changer! Its self-cleaning technology eliminates the hassle of emptying the dustbin, saving me valuable time and effort. The powerful suction leaves my carpets and floors spotless, making my home feel refreshed and allergen-free.\"",
+          "label": "Positive"
+        }
+      ],
+      "product_price": {
+        "current_price": 2230.29,
+        "discounted_price": 1852.04
+      },
+      "product_rating": {
+        "rating": 3.8,
+        "out_of": 5
+      },
+      "category": "Home Appliances",
+      "number_of_ratings_reviews": 596,
+      "availability_status": "Out of Stock"
+    },
+    {
+      "product_name": "The Bookworm's Treasury",
+      "product_image_link": "https://retail-images.com/products/books/the-bookworm's-treasury.jpg",
+      "product_description": "Indulge in literary bliss with The Bookworm's Treasury, a captivating collection of literary quotes, obscure facts, and hidden gems from the world of books and reading. This captivating volume is a must-have for bibliophiles, providing endless hours of discovery and inspiration. Delve into the minds of renowned authors, unravel literary mysteries, and embrace the enchanting power of words.",
+      "customer_comments": [
+        {
+          "comment": "The Bookworm's Treasury has a nice selection of books, but the prices are slightly higher than other bookstores. The staff is friendly, but they don't always seem to have a wide knowledge of the books. Overall, it's a decent bookstore, but I would recommend checking out other options before making a purchase.",
+          "label": "Neutral"
+        },
+        {
+          "comment": "The Bookworm's Treasury has a solid selection, but prices are a bit steep. The staff was friendly and knowledgeable, but the store was slightly disorganized. Overall, it's a decent option for book lovers, but there are better shops in the area with a wider variety and more competitive pricing.",
+          "label": "Neutral"
+        }
+      ],
+      "product_price": {
+        "current_price": 59.17,
+        "discounted_price": 43.86
+      },
+      "product_rating": {
+        "rating": 4.7,
+        "out_of": 5
+      },
+      "category": "Books",
+      "number_of_ratings_reviews": 761,
+      "availability_status": "In Stock"
+    },
+    {
+      "product_name": "Apex Pro Trekker",
+      "product_image_link": "https://retail-images.com/products/sports & outdoors/apex-pro-trekker.jpg",
+      "product_description": "Introducing the Apex Pro Trekker, the ultimate backpack for adventure enthusiasts. Designed with rugged durability and ergonomic comfort, this pack is perfect for long treks and outdoor expeditions. Featuring a spacious main compartment, multiple pockets for organization, a breathable back panel, and adjustable shoulder straps – it ensures a comfortable and organized journey every time. Experience the freedom to roam with the Apex Pro Trekker.",
+      "customer_comments": [
+        {
+          "comment": "Poor craftsmanship and low-quality materials. Buckle broke on the first hike, shoulder strap stitching came undone, and the water bottle pocket tore. Avoid this backpack at all costs.",
+          "label": "Negative"
+        },
+        {
+          "comment": "Despite positive reviews, I was highly disappointed with Apex Pro Trekker. The product malfunctioned within weeks, and customer support was unhelpful and unresponsive. I strongly advise against purchasing from this company due to its poor quality and lack of accountability.",
+          "label": "Negative"
+        }
+      ],
+      "product_price": {
+        "current_price": 974.27,
+        "discounted_price": 893.3
+      },
+      "product_rating": {
+        "rating": 5.0,
+        "out_of": 5
+      },
+      "category": "Sports & Outdoors",
+      "number_of_ratings_reviews": 14,
+      "availability_status": "Out of Stock"
+    },
+    {
+      "product_name": "Radiance Revive Serum",
+      "product_image_link": "https://store-assets.org/photos/beauty & personal care/radiance-revive-serum.jpg",
+      "product_description": "Introducing Radiance Revive Serum, your daily dose of glow! This lightweight serum is packed with antioxidants and vitamin C, leaving your skin looking brighter, smoother, and more youthful. Say goodbye to dullness and hello to a radiant complexion. Perfect for all skin types, our serum absorbs quickly and effortlessly to deliver visible results. Illuminate your inner radiance with Radiance Revive Serum today!",
+      "customer_comments": [
+        {
+          "comment": "Radiance Revive Serum gave my skin a subtle glow, but it didn't dramatically improve my skin's overall texture or radiance as advertised. I found it to be a decent serum, but not extraordinary enough to warrant a repurchase.",
+          "label": "Neutral"
+        },
+        {
+          "comment": "Radiance Revive Serum is an okay product. It's lightweight and absorbs quickly, but I haven't noticed a significant improvement in my skin's appearance. The smell is also a bit strong. Overall, it's an average serum that doesn't live up to the hype.",
+          "label": "Neutral"
+        }
+      ],
+      "product_price": {
+        "current_price": 73.94,
+        "discounted_price": 63.55
+      },
+      "product_rating": {
+        "rating": 3.3,
+        "out_of": 5
+      },
+      "category": "Beauty & Personal Care",
+      "number_of_ratings_reviews": 550,
+      "availability_status": "Limited Availability"
+    },
+    {
+      "product_name": "Neon Bolt Blaster",
+      "product_image_link": "https://store-assets.org/photos/toys & games/neon-bolt-blaster.jpg",
+      "product_description": "Introducing the Neon Bolt Blaster, the ultimate toy for thrilling light battles! Unleash a barrage of neon bolts with this futuristic blaster, featuring a pulsating light effect that illuminates the battlefield. Its adjustable target sights and rapid-fire action ensure accuracy and excitement. Engage in epic duels or team up for cooperative play. The Neon Bolt Blaster brings the neon glow to your battles, making them an unforgettable experience for kids of all ages.",
+      "customer_comments": [
+        {
+          "comment": "Generic Generate a realistic positive customer review for Neon Bolt Blaster. Keep it under 50 words.",
+          "label": "Positive"
+        },
+        {
+          "comment": "The Neon Bolt Blaster has the classic design and action that parents and kids alike appreciate. The instructions were a bit confusing at first, but once we got it together, it worked well for my grade-schoolers. It's lightweight and easy for them to handle. However, the darts do not stick to the target very well, so we have to tape paper over the target area. Overall, not bad for the price!",
+          "label": "Neutral"
+        }
+      ],
+      "product_price": {
+        "current_price": 26.59,
+        "discounted_price": 21.85
+      },
+      "product_rating": {
+        "rating": 3.4,
+        "out_of": 5
+      },
+      "category": "Toys & Games",
+      "number_of_ratings_reviews": 976,
+      "availability_status": "In Stock"
+    },
+    {
+      "product_name": "Golden Valley Granola Crunch",
+      "product_image_link": "https://retail-images.com/products/grocery/golden-valley-granola-crunch.jpg",
+      "product_description": "Indulge in the irresistible crunch of Golden Valley Granola Crunch. Crafted with premium oats, nuts, and seeds, this granola boasts a symphony of flavors and textures that will tantalize your taste buds. Its natural sweetness and hearty crunch make it the perfect topping for yogurt, smoothies, or a satisfying snack straight out of the bag. Start your day with a boost of energy and nutrition with Golden Valley Granola Crunch.",
+      "customer_comments": [
+        {
+          "comment": "Golden Valley Granola Crunch is too sweet and artificial-tasting. The granola clusters are too hard and don't have a satisfying crunch. I expected a more natural and flavorful product from this brand.",
+          "label": "Negative"
+        },
+        {
+          "comment": "Golden Valley Granola Crunch is a delicious and healthy breakfast option. The granola is packed with whole grains, nuts, and seeds, and it has a sweet and crunchy flavor. I love that it's made with all-natural ingredients, and I feel good about feeding it to my family.",
+          "label": "Positive"
+        }
+      ],
+      "product_price": {
+        "current_price": 34.2,
+        "discounted_price": 28.6
+      },
+      "product_rating": {
+        "rating": 4.8,
+        "out_of": 5
+      },
+      "category": "Grocery",
+      "number_of_ratings_reviews": 656,
+      "availability_status": "Limited Availability"
+    },
+    {
+      "product_name": "Zenith Lounge",
+      "product_image_link": "https://store-assets.org/photos/furniture/zenith-lounge.jpg",
+      "product_description": "Indulge in unparalleled comfort and style with Zenith Lounge. Its plush cushioning, supportive frame, and sleek lines elevate any living space. Crafted with premium materials, this lounge ensures exceptional durability and relaxation. The modular design allows for versatile arrangements, transforming your room into an oasis of tranquility and sophistication.",
+      "customer_comments": [
+        {
+          "comment": "Zenith Lounge offered a comfortable and clean space to relax before my flight. The seating was comfortable and the amenities were adequate. However, the food and beverage options were limited and somewhat overpriced. Overall, it was a decent lounge experience that could be improved with a wider food and beverage selection.",
+          "label": "Neutral"
+        },
+        {
+          "comment": "Zenith Lounge exceeded my expectations! The staff was incredibly attentive and friendly, making me feel welcomed and comfortable. The lounge itself is stylish and well-maintained, with a wide selection of delicious food and drinks. I highly recommend the Zenith Lounge for anyone looking for a relaxing and enjoyable experience.",
+          "label": "Positive"
+        }
+      ],
+      "product_price": {
+        "current_price": 3002.68,
+        "discounted_price": 2849.56
+      },
+      "product_rating": {
+        "rating": 3.3,
+        "out_of": 5
+      },
+      "category": "Furniture",
+      "number_of_ratings_reviews": 397,
+      "availability_status": "Out of Stock"
+    },
+    {
+      "product_name": "Pawsitively Pure",
+      "product_image_link": "https://store-assets.org/photos/pet supplies/pawsitively-pure.jpg",
+      "product_description": "Pawsitively Pure: Keep Your Furry Friends Clean & Healthy!\n\nOur plant-based, hypoallergenic pet shampoo and conditioner duo provides a gentle and effective clean for pets of all ages. Formulated with soothing aloe and chamomile, it nourishes the skin, reduces itching, and leaves your pet's coat soft and shiny. Free from harsh chemicals, sulfates, and parabens, it's safe for even the most sensitive skin. Give your pet the gift of a healthy, lustrous coat today!",
+      "customer_comments": [
+        {
+          "comment": "\"Pawsitively Pure's products were a huge disappointment. My dog broke out in a rash after using their shampoo, and the treats gave him an upset stomach. Avoid this brand at all costs.\"",
+          "label": "Negative"
+        },
+        {
+          "comment": "Pawsitively Pure's products are OK. The shampoo lathers well but left my dog's coat feeling a bit dry. The treats are small and my dog didn't seem very interested in them. Overall, they're an average option for pet supplies.",
+          "label": "Neutral"
+        }
+      ],
+      "product_price": {
+        "current_price": 446.7,
+        "discounted_price": 352.82
+      },
+      "product_rating": {
+        "rating": 3.5,
+        "out_of": 5
+      },
+      "category": "Pet Supplies",
+      "number_of_ratings_reviews": 745,
+      "availability_status": "Out of Stock"
     }
-    }
+  ]
+}
         
         return jsonify(response), 200
 
