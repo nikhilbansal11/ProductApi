@@ -2,12 +2,14 @@ import os
 from flask import Flask, request, jsonify
 import logging
 from werkzeug.middleware.proxy_fix import ProxyFix
+from flask_cors import CORS
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
+CORS(app)
 app.wsgi_app = ProxyFix(app.wsgi_app)
 
 
